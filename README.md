@@ -1,4 +1,4 @@
-# Rock-Vs.-Mine-Prediction-
+# Rock-Vs.-Mine-Prediction
 I explore rock vs. mine prediction with Python using a [SONAR dataset](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view). Using a Logistic Regression Model for my prediction algorithm, I intend on predicting what an object is based on supervised learning. 
 > This table is taken from [kaggle](https://www.kaggle.com/) and contains data specifying whether a given subject is a rock or a mine.
 
